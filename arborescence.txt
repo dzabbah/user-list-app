@@ -1,0 +1,16 @@
+user-list-app/                    # Racine du projet
+├── node_modules/                 # Modules installés par npm
+├── public/                       # Fichiers publics (index.html, favicon, etc.)
+│   ├── index.html                # Fichier HTML principal
+│   ├── ...
+├── src/                          # Fichiers sources de l'application React
+│   ├── App.css                   # Fichier de styles CSS pour l'application
+│   ├── App.js                    # Composant principal de l'application
+│   ├── UserList.js               # Composant qui récupère et affiche les utilisateurs
+│   ├── index.js                  # Point d'entrée de l'application
+│   ├── ...
+├── .gitignore                    # Fichiers à ignorer par git
+├── package.json                  # Dépendances et configurations du projet
+├── package-lock.json             # Verrouillage des versions des dépendances
+├── README.md                     # Fichier de documentation du projet
+└── ...

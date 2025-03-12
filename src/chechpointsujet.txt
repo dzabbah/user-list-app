@@ -1,0 +1,36 @@
+API
+
+API Checkpoint
+
+Déverrouillé
+Votre Objectif
+
+ 
+
+Dans ce point de contrôle, nous allons consommer une API qui nous fournit une liste d'utilisateurs. Il suffit de suivre les instructions :
+
+ 
+
+
+Instructions
+
+Créer un projet en utilisant create-react-app.
+Créer le fichier UserList.js dans le dossier src
+Installer axios.
+Vous allez utiliser l'API jsonplaceholder pour obtenir la liste des utilisateurs 
+Utiliser axios pour obtenir les données du lien dans les crochets useEffect
+Utiliser les crochets UseState pour enregistrer les données dans l'état listOfUSer 
+Mapper listOfUser pour afficher la liste des utilisateurs à l'écran 
+Modeler votre application comme vous le souhaitez.
+ 
+
+
+Soumission du Lien
+
+https://github.com/dzabbah/user-list-app.git
+Utilisez votre compte GitHub pour pousser le lien dans un nouveau dépôt avec le nom du point de contrôle.
+
+Note : Une fois que votre instructeur aura approuvé le checkpoint, vous ne pourrez plus modifier le lien.
+
+Ressources Utiles
+Détails de l'Évaluation
